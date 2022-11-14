@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Omars gits based apps
+          Omars App
         </a>
       </header>
     </div>
